@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShoaibAkhtar-98
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Embedded system 
+- 🌱 I’m currently working on QT, C# and C language
 - 💞️ I’m looking to collaborate on ipsec encryters
 - 📫 Mail me at m.shoaibakhtar98@gmail.com
 
